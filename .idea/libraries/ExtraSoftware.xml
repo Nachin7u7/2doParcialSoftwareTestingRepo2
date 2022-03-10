@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ExtraSoftware">
+    <CLASSES>
+      <root url="file://C:/ExtraSoftware" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/ExtraSoftware" />
+    </SOURCES>
+    <jarDirectory url="file://C:/ExtraSoftware" recursive="false" />
+    <jarDirectory url="file://C:/ExtraSoftware" recursive="false" type="SOURCES" />
+  </library>
+</component>

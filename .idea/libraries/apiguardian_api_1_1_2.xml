@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="apiguardian-api-1.1.2">
+    <CLASSES>
+      <root url="jar://C:/ExtraSoftware/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/byte-buddy-1.12.7.jar!/" />
+      <root url="jar://C:/ExtraSoftware/byte-buddy-agent-1.12.7.jar!/" />
+      <root url="jar://C:/ExtraSoftware/compiler-21.2.0.jar!/" />
+      <root url="jar://C:/ExtraSoftware/compiler-22.0.0.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/espresso-installable-svm-java11-darwin-amd64-22.0.0.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/espresso-installable-svm-java11-windows-amd64-22.0.0.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/espresso-installable-svm-java17-windows-amd64-22.0.0.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/graal-sdk-22.0.0.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/hamcrest-core-1.3.jar!/" />
+      <root url="jar://C:/ExtraSoftware/junit-4.13.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/junit-jupiter-api-5.8.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/junit-jupiter-params-5.8.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/junit-platform-commons-1.8.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/mockito-core-4.3.1.jar!/" />
+      <root url="jar://C:/ExtraSoftware/mockito-junit-jupiter-4.3.1.jar!/" />
+      <root url="jar://C:/ExtraSoftware/objenesis-3.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/opentest4j-1.2.0.jar!/" />
+      <root url="jar://C:/ExtraSoftware/polyglot-tck-22.0.0.2.jar!/" />
+      <root url="jar://C:/ExtraSoftware/selenium-api-3.0.0-beta3.jar!/" />
+      <root url="jar://C:/ExtraSoftware/truffle-api-22.0.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/ExtraSoftware/compiler-21.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/ExtraSoftware/compiler-21.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
